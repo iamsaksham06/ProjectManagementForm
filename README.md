@@ -12,7 +12,8 @@ Easy and fast to develop database applications without using any server side pro
 Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, the development is real fun and fast.
 
 When any user fills form, the data given by him/her is stored in a form of table in the database as soon as he/she clicks the save button as shown below:
-![image](https://user-images.githubusercontent.com/97757688/216602497-fb4fc070-efb0-46bc-a64d-52a10bc7f760.png)
+![image](https://user-images.githubusercontent.com/97757688/216603775-63490d73-0c81-4388-8e6d-2bd94ea78145.png)
+
 
 Form also have many functionalities which are inserted using jQuery and JS:
 
@@ -32,7 +33,7 @@ Check that the data should be valid i.e. no empty fields.
 
 Click on [Update] button to update the data in the database.
 
-Click [Reset] to reset the form as per the step-2.
+Click [Reset] to reset the form.
 
 ![image](https://user-images.githubusercontent.com/97757688/216603099-8f026ab1-7119-4b5f-b6e2-eec6c9d2ec68.png)
 
