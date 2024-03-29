@@ -1,4 +1,4 @@
-# ProjectManagementForm
+# Project Management Form
 This is a mini project wherein I have created a form with Project management details and connected it to JSONPower DB
 
 ![image](https://user-images.githubusercontent.com/97757688/216600689-d7d122a6-6292-410a-9419-2bc916ba0106.png)
